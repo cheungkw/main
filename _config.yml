@@ -34,7 +34,7 @@ color:
 footer:
   copyright: William Kwok Wai Cheung
   location: Location
-  social: Around the Web
+  social: Contact
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
@@ -49,6 +49,8 @@ social:
 #    url: http://bitbucket.org/jekyll
 #  - title: github
 #    url: http://github.com/jekyll
+  - title: email 
+    url: williamcheung@link.cuhk.edu.hk 
 
 # Postal address (add as many lines as necessary)
 address:
